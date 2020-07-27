@@ -10,3 +10,13 @@ services:
     ports:
       - "3000:3000"
     tty: true
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    command: go run main.go
+    volumes:
+      - ./backend:/app
+    ports:
+      - 1323:1323
