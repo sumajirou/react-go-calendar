@@ -1,11 +1,12 @@
 version: "3"
 services:
-  client:
+  frontend:
     build:
       context: ./frontend
       dockerfile: Dockerfile
     volumes:
       - ./frontend:/usr/src/app
-    command: sh -c "cd react-sample && yarn start"
+    command: sh -c "cd frontend && yarn start"
     ports:
       - "3000:3000"
+    tty: true
