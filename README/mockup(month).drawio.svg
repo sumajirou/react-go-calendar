@@ -1,61 +1,322 @@
-<mxfile host="5eca4802-0ec0-46f5-bdfe-b76d840a5419" modified="2020-07-28T13:52:06.770Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.47.0 Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36" etag="ozIDqmgT7mRg8iaG1VuZ" version="13.1.3">
-    <diagram name="最終形(月)" id="03018318-947c-dd8e-b7a3-06fadd420f32">
-        <mxGraphModel dx="1390" dy="2603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
-            <root>
-                <mxCell id="0"/>
-                <mxCell id="1" parent="0"/>
-                <mxCell id="2" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
-                    <mxGeometry x="20" y="20" width="1060" height="810" as="geometry"/>
-                </mxCell>
-                <mxCell id="3" value="&lt;font style=&quot;font-size: 90px&quot;&gt;📅&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" vertex="1" parent="1">
-                    <mxGeometry x="30" y="230" width="200" height="120" as="geometry"/>
-                </mxCell>
-                <mxCell id="4" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
-                    <mxGeometry x="20" y="115" width="1060" height="10" as="geometry"/>
-                </mxCell>
-                <mxCell id="5" value="&lt;font style=&quot;font-size: 500px&quot;&gt;📅&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" vertex="1" parent="1">
-                    <mxGeometry x="250" y="180" width="820" height="570" as="geometry"/>
-                </mxCell>
-                <mxCell id="6" value="今日" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;" vertex="1" parent="1">
-                    <mxGeometry x="300" y="50" width="90" height="50" as="geometry"/>
-                </mxCell>
-                <mxCell id="7" value="&lt;font style=&quot;font-size: 29px&quot;&gt;2020年7月&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-                    <mxGeometry x="430" y="50" width="240" height="45" as="geometry"/>
-                </mxCell>
-                <mxCell id="8" value="&lt;span style=&quot;font-size: 29px&quot;&gt;≡&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-                    <mxGeometry x="30" y="55" width="60" height="45" as="geometry"/>
-                </mxCell>
-                <mxCell id="9" value="&lt;font style=&quot;font-size: 29px&quot;&gt;📆カレンダー&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-                    <mxGeometry x="80" y="50" width="240" height="45" as="geometry"/>
-                </mxCell>
-                <mxCell id="10" value="&lt;font style=&quot;font-size: 29px&quot;&gt;🔍&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-                    <mxGeometry x="683" y="60" width="30" height="45" as="geometry"/>
-                </mxCell>
-                <mxCell id="11" value="&lt;font style=&quot;font-size: 29px&quot;&gt;❔&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-                    <mxGeometry x="740" y="60" width="30" height="45" as="geometry"/>
-                </mxCell>
-                <mxCell id="12" value="&lt;span style=&quot;font-size: 29px&quot;&gt;⚙&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-                    <mxGeometry x="800" y="60" width="30" height="45" as="geometry"/>
-                </mxCell>
-                <mxCell id="13" value="月" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;" vertex="1" parent="1">
-                    <mxGeometry x="860" y="57.5" width="90" height="50" as="geometry"/>
-                </mxCell>
-                <mxCell id="14" value="😶" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;" vertex="1" parent="1">
-                    <mxGeometry x="970" y="55" width="90" height="50" as="geometry"/>
-                </mxCell>
-                <mxCell id="15" value="➕作成" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;" vertex="1" parent="1">
-                    <mxGeometry x="60" y="140" width="130" height="50" as="geometry"/>
-                </mxCell>
-                <mxCell id="16" value="&lt;span style=&quot;font-size: 20px&quot;&gt;☑自分の予定&lt;/span&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;☑日本の祝日&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=left;comic=1;" vertex="1" parent="1">
-                    <mxGeometry x="32.5" y="375" width="195" height="135" as="geometry"/>
-                </mxCell>
-                <mxCell id="17" value="&lt;ul style=&quot;font-size: 17px&quot;&gt;&lt;li&gt;日&lt;/li&gt;&lt;li&gt;週&lt;/li&gt;&lt;li&gt;月&lt;/li&gt;&lt;li&gt;年&lt;/li&gt;&lt;li&gt;スケジュール&lt;/li&gt;&lt;li&gt;4日&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;から選択できる&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-                    <mxGeometry x="850" y="-160" width="155" height="200" as="geometry"/>
-                </mxCell>
-                <mxCell id="18" value="&lt;ul style=&quot;font-size: 17px&quot;&gt;&lt;li&gt;月モード&lt;/li&gt;&lt;/ul&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;align=left;size=20;position=0.48;base=21;" vertex="1" parent="1">
-                    <mxGeometry x="615" y="160" width="155" height="60" as="geometry"/>
-                </mxCell>
-            </root>
-        </mxGraphModel>
-    </diagram>
-</mxfile>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1061px" height="993px" viewBox="-0.5 -0.5 1061 993" content="&lt;mxfile host=&quot;52f7c9f5-6eb9-4b48-ab29-59a6c04aeef1&quot; modified=&quot;2020-07-28T14:18:55.989Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.47.0 Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36&quot; etag=&quot;Lw50JzzYsNZy6bPHDFBd&quot; version=&quot;13.1.3&quot;&gt;&lt;diagram id=&quot;6hGFLwfOUW9BJ-s0fimq&quot; name=&quot;Page-1&quot;&gt;7VpNc6M4EP01Os4UQnxIR7DJzGWrtipVu2cCsk2NjDwYx87++m2BZIyRxyTBk9n1+OBI3UKCfu+pRTuIzNaHL1W6Wf0hcy6Q6+QHRObIdSnx4FsZXloDfHBrWVZF3tpODI/FP1wbHW3dFTnf9gbWUoq62PSNmSxLntU9W1pVct8ftpCiv+omXfKB4TFLxdD6d5HXK/1cbtjZv/JiuTIr44C1nqc0+7as5K7U6yGXLJpP616nZi79oNtVmsv9iYkkiMwqKeu2tT7MuFCxNWFrr3u44D3ed8XLeswFbnvBcyp23Nxxc1/1i4nFflXU/HGTZqq/B7wRiVf1WkAPQ7N5WK6mc6B3fB7VEekTF/ExIjMpZAWuUpZcDa0r+Y0bIwTKaT5Hjwm8WmRRCHF2+UKW9UO6LoTi2F+8ytMy1WbNJ+zqvm2NVBTLEmwZBIqDM87kusj0csMo6sA+86rmhxOTjuoXLte8rl5giPYagF/63X3HJuwE2rg6oRI1Ekg1hZfHqTsYoaGRtKNKLKgGotbh6MEbfN9J4/i0bQIXwQDmbA6dE1rL5u+Dg9gDYgRR38wI99JOqof8XPpMQ5Jbk4GckYEM2eA6FjJgdwIyeNclLooLIZ0CqLfB4v062sXYHyneKbTrv1u7vvNbvFOywT+jAx2ql7oWNvjhBHQIhnRIPBTHiEYoCRALUeR/JGxXMXLpT9lg+xj5Q4iYDaEJAArfrVeX2eQKdgclPooZir2wwXqGKB2rXAhc3Ue9f966vDkPsFIwFHA2jrRjXeS5Wia20azPrQmg9chVaF3Pgq3nvx9behHb7SYt344tSlxEGYrwCZrtjP93NM/BHGZWW16dAkt2I52epNUAJfDtoihuGgRFM92IiW5A7tCW2d0pmX6ckM3B7Gboe4jO7w7QgJIeosEQUXIrQPGtAIWtmc0VoPeGZug5H4amrQw1VaJlEWLs7hItdT4OTUv5qTu+3vurCg3O0mD4eXgIutXLCrYUg3QGoygOfqPDwqsH1JthY6n8qO0rQcxv3vnnSkIgJFCRuYd7hupMR9gb7nDYtsVNgpWlLPPahGUv0inEAV+MEopoiKJI1QAAcf1ygVGUNGSIlBFc0IUEdym7TXJLepan6txym+W6CJjyVps89MtUG4HGDue0rgQ2Lr//lwqagi/q6WVDXJNvtHBIaClvM38oHEymOBxcrpftxBjW4PBHJBVFx6MhNU68lvFMvZ3HePT4YUXux+N1LW/0+KaWAJfoBjYNaqoLfldL0JZ45OTeuOiAUYHSN+bF81sVfwG7VtbUPDJlDRa4edJAFbohB2rph2bw3Ay+thuBuXfHZxsCaHyjmnBQF3JXXzien2wRG14VwHqV0cxFf3amnuzbH//dLBu8RoAnD54CPxjKfYoj5tkvFp+w5fSPfYvEj79Cvkvil8umN5B4I0FNf/dcEJS9ht+/OjW2+nSl0tFGbou6kMrrfPbUeesp3TbeqY5XuJ8mRnMoeD2FoNv9y0vjO/m/IpL8Cw==&lt;/diagram&gt;&lt;/mxfile&gt;" style="background-color: rgb(255, 255, 255);">
+    <defs/>
+    <g>
+        <path d="M 0 182 L 0 182.43 L 10 181.57 L 20 182.24 L 30 182.29 L 40 182.61 L 50 182 L 60 181.94 L 70 182.27 L 80 182.49 L 90 181.33 L 100 182.08 L 110 182.6 L 120 182.44 L 130 182.47 L 140 182.49 L 150 181.41 L 160 182.07 L 170 181.78 L 180 181.55 L 190 182.2 L 200 181.28 L 210 182.66 L 220 182.28 L 230 181.99 L 240 181.82 L 250 182.37 L 260 182.73 L 270 181.52 L 280 182.66 L 290 181.27 L 300 182.43 L 310 182.26 L 320 182.21 L 330 182.59 L 340 181.48 L 350 181.46 L 360 182.01 L 370 181.67 L 380 181.58 L 390 182.49 L 400 181.84 L 410 181.34 L 420 182 L 430 182.28 L 440 181.4 L 450 182.26 L 460 182.71 L 470 182.08 L 480 182.19 L 490 181.57 L 500 182.23 L 510 181.64 L 520 181.36 L 530 182.1 L 540 181.76 L 550 181.93 L 560 182.1 L 570 181.37 L 580 181.82 L 590 182.22 L 600 181.36 L 610 182.67 L 620 182.17 L 630 181.99 L 640 181.34 L 650 181.84 L 660 181.72 L 670 181.95 L 680 182.64 L 690 182.07 L 700 181.91 L 710 182.24 L 720 182.66 L 730 182.23 L 740 181.76 L 750 182.05 L 760 182.46 L 770 181.31 L 780 182.05 L 790 181.26 L 800 181.31 L 810 182.15 L 820 182.58 L 830 181.77 L 840 182 L 850 181.68 L 860 181.3 L 870 181.55 L 880 182.72 L 890 182.68 L 900 181.41 L 910 181.59 L 920 181.82 L 930 182.47 L 940 181.55 L 950 182.54 L 960 182.73 L 970 182.28 L 980 181.52 L 990 182.59 L 1000 182.7 L 1010 181.53 L 1020 182.64 L 1030 181.34 L 1040 181.84 L 1050 181.61 L 1060 182 L 1059.72 182 L 1059.87 192 L 1060.41 202 L 1060.01 212 L 1059.98 222 L 1059.96 232 L 1060.23 242 L 1060.15 252 L 1060.17 262 L 1059.43 272 L 1060.18 282 L 1059.88 292 L 1060.52 302 L 1059.68 312 L 1060.37 322 L 1060.01 332 L 1060.69 342 L 1059.73 352 L 1060.12 362 L 1059.3 372 L 1060.45 382 L 1059.81 392 L 1059.61 402 L 1060.24 412 L 1059.63 422 L 1060.29 432 L 1059.75 442 L 1059.72 452 L 1060.1 462 L 1060.55 472 L 1059.48 482 L 1059.67 492 L 1059.4 502 L 1060.62 512 L 1059.9 522 L 1059.93 532 L 1059.61 542 L 1060.22 552 L 1059.5 562 L 1059.96 572 L 1059.95 582 L 1060.6 592 L 1060.3 602 L 1060.02 612 L 1060.27 622 L 1060.75 632 L 1060.05 642 L 1059.64 652 L 1060.37 662 L 1060.25 672 L 1059.65 682 L 1059.43 692 L 1060.23 702 L 1059.43 712 L 1060.58 722 L 1060 732 L 1060.49 742 L 1060.58 752 L 1060.29 762 L 1059.61 772 L 1060.21 782 L 1060.55 792 L 1060 802 L 1060.4 812 L 1059.97 822 L 1060.4 832 L 1060.4 842 L 1059.63 852 L 1060.19 862 L 1059.94 872 L 1060.69 882 L 1060.13 892 L 1059.27 902 L 1059.27 912 L 1059.92 922 L 1059.71 932 L 1059.61 942 L 1060.24 952 L 1060 962 L 1059.98 972 L 1060.52 982 L 1060 992 L 1060 991.47 L 1050 991.3 L 1040 991.47 L 1030 991.82 L 1020 992.54 L 1010 992.43 L 1000 992 L 990 991.88 L 980 991.47 L 970 991.96 L 960 991.93 L 950 991.84 L 940 991.32 L 930 991.4 L 920 992.36 L 910 992.05 L 900 992.04 L 890 991.51 L 880 991.75 L 870 992.24 L 860 991.33 L 850 991.45 L 840 992.56 L 830 992.39 L 820 991.88 L 810 991.8 L 800 991.96 L 790 991.53 L 780 992.72 L 770 992.19 L 760 992.49 L 750 991.68 L 740 991.33 L 730 991.29 L 720 992.13 L 710 992.44 L 700 992.28 L 690 992.15 L 680 991.78 L 670 992.73 L 660 992.11 L 650 991.93 L 640 992.32 L 630 991.85 L 620 991.81 L 610 991.8 L 600 992.34 L 590 992.36 L 580 992.12 L 570 991.39 L 560 991.57 L 550 991.44 L 540 991.99 L 530 991.84 L 520 991.63 L 510 991.75 L 500 991.7 L 490 991.58 L 480 991.45 L 470 992.59 L 460 992.19 L 450 992.16 L 440 992.13 L 430 991.43 L 420 992.33 L 410 991.66 L 400 991.68 L 390 992.62 L 380 992.53 L 370 991.58 L 360 991.63 L 350 992.1 L 340 991.79 L 330 991.71 L 320 991.58 L 310 991.52 L 300 991.99 L 290 991.69 L 280 992.47 L 270 992.34 L 260 991.76 L 250 992.27 L 240 991.31 L 230 991.49 L 220 991.65 L 210 992.6 L 200 991.89 L 190 991.39 L 180 991.36 L 170 991.33 L 160 992.68 L 150 991.25 L 140 992.2 L 130 991.65 L 120 992.43 L 110 991.59 L 100 992.68 L 90 992.7 L 80 992.08 L 70 992.66 L 60 992.47 L 50 992.21 L 40 992.41 L 30 991.56 L 20 991.76 L 10 991.37 L 0 992 L -0.68 992 L -0.1 982 L 0.26 972 L 0.28 962 L 0.59 952 L -0.37 942 L -0.48 932 L 0.44 922 L 0.07 912 L -0.34 902 L 0.68 892 L 0.46 882 L -0.31 872 L 0.2 862 L -0.23 852 L 0.22 842 L -0.63 832 L 0.12 822 L 0.52 812 L 0.6 802 L 0.28 792 L 0.15 782 L 0.16 772 L 0.42 762 L 0.02 752 L 0.72 742 L 0.06 732 L -0.49 722 L -0.04 712 L -0.24 702 L -0.52 692 L 0.23 682 L -0.57 672 L 0.73 662 L 0.3 652 L 0.15 642 L -0.3 632 L -0.05 622 L -0.54 612 L -0.66 602 L 0.52 592 L -0.23 582 L 0.17 572 L 0.61 562 L 0.04 552 L -0.21 542 L 0.35 532 L 0.45 522 L 0.09 512 L 0.34 502 L 0.09 492 L 0.62 482 L 0.72 472 L -0.08 462 L -0.68 452 L 0.32 442 L 0.71 432 L 0.45 422 L -0.63 412 L 0.22 402 L -0.35 392 L 0.08 382 L -0.39 372 L 0.53 362 L -0.36 352 L 0.69 342 L 0.75 332 L 0.19 322 L -0.72 312 L -0.36 302 L 0.45 292 L 0.72 282 L 0.38 272 L -0.16 262 L -0.41 252 L 0.67 242 L 0.72 232 L 0.55 222 L -0.24 212 L 0.74 202 L 0.49 192 L 0 182 L 0 182 Z Z" fill="none" stroke="#000000" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 10 392 L 10 391.96 L 20 392.45 L 30 392.38 L 40 392.1 L 50 391.85 L 60 392.16 L 70 391.26 L 80 392.4 L 90 392.69 L 100 392.03 L 110 392.7 L 120 391.84 L 130 392.44 L 140 391.58 L 150 392.65 L 160 392.28 L 170 392.05 L 180 392.52 L 190 392.53 L 200 392.14 L 210 392 L 210.14 392 L 210.61 402 L 209.75 412 L 209.68 422 L 209.56 432 L 209.5 442 L 210.48 452 L 210.64 462 L 210.36 472 L 210.56 482 L 209.35 492 L 210.66 502 L 210 512 L 210 512.67 L 200 512.32 L 190 511.44 L 180 512.09 L 170 511.33 L 160 512.68 L 150 512.22 L 140 512.17 L 130 512.27 L 120 512.66 L 110 511.34 L 100 511.7 L 90 512.34 L 80 511.47 L 70 512.41 L 60 512.4 L 50 512.13 L 40 511.36 L 30 511.39 L 20 512.71 L 10 512 L 10.2 512 L 9.33 502 L 9.62 492 L 9.82 482 L 9.48 472 L 10.18 462 L 10.55 452 L 10.43 442 L 9.79 432 L 9.78 422 L 10.57 412 L 10.7 402 L 10 392 L 10 392 Z Z" fill="none" stroke="#000000" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 452px; margin-left: 11px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Verdana; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <font style="font-size: 90px">
+                                    📅
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="110" y="456" fill="#000000" font-family="Verdana" font-size="12px" text-anchor="middle">
+                    📅
+                </text>
+            </switch>
+        </g>
+        <path d="M 0 282 L 0 281.64 L 10 281.74 L 20 281.73 L 30 282.21 L 40 282.14 L 50 281.9 L 60 282.24 L 70 282.44 L 80 281.41 L 90 281.68 L 100 281.5 L 110 282.06 L 120 282.6 L 130 281.8 L 140 281.53 L 150 282.6 L 160 282.07 L 170 281.76 L 180 282.39 L 190 281.31 L 200 282.09 L 210 281.71 L 220 282.42 L 230 282.47 L 240 282.69 L 250 282.27 L 260 282.03 L 270 281.59 L 280 282.22 L 290 281.32 L 300 282.61 L 310 281.85 L 320 282.27 L 330 282.01 L 340 282.43 L 350 282.66 L 360 281.92 L 370 281.33 L 380 282.18 L 390 281.41 L 400 282.66 L 410 281.87 L 420 281.92 L 430 281.39 L 440 282.13 L 450 281.27 L 460 282.15 L 470 281.97 L 480 282.56 L 490 282.67 L 500 282.37 L 510 282.6 L 520 282.06 L 530 281.35 L 540 281.93 L 550 281.27 L 560 281.26 L 570 281.25 L 580 281.28 L 590 281.26 L 600 281.48 L 610 281.62 L 620 282.28 L 630 281.52 L 640 282.13 L 650 281.92 L 660 281.48 L 670 282.69 L 680 281.91 L 690 281.58 L 700 281.97 L 710 281.92 L 720 282.51 L 730 282.25 L 740 281.69 L 750 281.61 L 760 282.33 L 770 281.26 L 780 282.56 L 790 281.64 L 800 281.37 L 810 282.02 L 820 282.34 L 830 282.01 L 840 282.57 L 850 281.66 L 860 282.45 L 870 281.55 L 880 282.57 L 890 281.58 L 900 281.41 L 910 282.51 L 920 282.74 L 930 282.19 L 940 282.52 L 950 281.95 L 960 281.6 L 970 281.64 L 980 282.48 L 990 281.83 L 1000 282.51 L 1010 282.69 L 1020 282.52 L 1030 281.27 L 1040 281.92 L 1050 282 L 1060 282" fill="none" stroke="#000000" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 230 342 L 230 341.64 L 240 341.92 L 250 342.55 L 260 342.07 L 270 342.67 L 280 342.19 L 290 341.91 L 300 342.55 L 310 341.26 L 320 341.76 L 330 342.71 L 340 341.43 L 350 341.66 L 360 341.27 L 370 341.33 L 380 342.23 L 390 342.06 L 400 341.37 L 410 342.13 L 420 341.57 L 430 342.22 L 440 342.08 L 450 342.01 L 460 341.71 L 470 342.17 L 480 341.92 L 490 342.32 L 500 342.49 L 510 341.82 L 520 341.86 L 530 342.13 L 540 341.94 L 550 342.3 L 560 342.65 L 570 342.57 L 580 342.63 L 590 341.86 L 600 341.95 L 610 341.43 L 620 342.2 L 630 341.57 L 640 342.52 L 650 342.61 L 660 342.07 L 670 341.35 L 680 341.38 L 690 342.6 L 700 341.43 L 710 342.34 L 720 342.46 L 730 342.38 L 740 342.47 L 750 342.22 L 760 341.66 L 770 342.6 L 780 341.58 L 790 341.99 L 800 341.36 L 810 342.24 L 820 342.13 L 830 342.38 L 840 341.89 L 850 342.5 L 860 341.88 L 870 341.51 L 880 342.14 L 890 342.57 L 900 342.41 L 910 342.02 L 920 342.34 L 930 342.05 L 940 342.44 L 950 342.69 L 960 342.3 L 970 342.28 L 980 342.49 L 990 342.11 L 1000 342.33 L 1010 341.62 L 1020 342.01 L 1030 341.28 L 1040 341.97 L 1050 342 L 1049.31 342 L 1050.29 352 L 1049.98 362 L 1049.74 372 L 1050.51 382 L 1050.55 392 L 1049.81 402 L 1050.33 412 L 1049.58 422 L 1049.3 432 L 1050.53 442 L 1049.34 452 L 1050.43 462 L 1050.11 472 L 1050.64 482 L 1049.4 492 L 1049.47 502 L 1049.65 512 L 1050.51 522 L 1049.71 532 L 1049.99 542 L 1050.38 552 L 1049.33 562 L 1049.62 572 L 1049.95 582 L 1049.86 592 L 1050.33 602 L 1050.05 612 L 1049.47 622 L 1050.13 632 L 1049.3 642 L 1049.38 652 L 1050.29 662 L 1049.3 672 L 1050.63 682 L 1050 692 L 1050.3 702 L 1050.4 712 L 1050.09 722 L 1049.97 732 L 1049.43 742 L 1050.21 752 L 1050.72 762 L 1050.28 772 L 1049.78 782 L 1050.69 792 L 1050.19 802 L 1050.65 812 L 1050.16 822 L 1050.37 832 L 1049.34 842 L 1049.85 852 L 1050.08 862 L 1049.86 872 L 1050.21 882 L 1050.09 892 L 1049.57 902 L 1050 912 L 1050 911.59 L 1040 912.72 L 1030 911.64 L 1020 911.68 L 1010 912.54 L 1000 911.33 L 990 911.77 L 980 911.59 L 970 911.79 L 960 912.14 L 950 912.12 L 940 912.27 L 930 912.39 L 920 912.66 L 910 911.95 L 900 912.65 L 890 911.28 L 880 912.63 L 870 912.64 L 860 912.55 L 850 912.39 L 840 911.46 L 830 911.75 L 820 911.94 L 810 911.35 L 800 912.2 L 790 911.79 L 780 912.35 L 770 911.38 L 760 912.38 L 750 912.43 L 740 912.48 L 730 912.43 L 720 911.77 L 710 912.13 L 700 912.73 L 690 912.63 L 680 911.29 L 670 911.33 L 660 911.41 L 650 912.61 L 640 911.92 L 630 912.12 L 620 912.28 L 610 912.74 L 600 912.29 L 590 911.36 L 580 911.38 L 570 911.26 L 560 911.51 L 550 911.89 L 540 911.48 L 530 912.56 L 520 911.25 L 510 911.96 L 500 911.7 L 490 911.79 L 480 912.42 L 470 912.58 L 460 911.65 L 450 911.91 L 440 911.43 L 430 911.28 L 420 912 L 410 912.13 L 400 912.1 L 390 911.58 L 380 911.41 L 370 911.85 L 360 912.37 L 350 912.53 L 340 911.59 L 330 911.5 L 320 912.48 L 310 911.46 L 300 912.54 L 290 912.7 L 280 911.51 L 270 912.47 L 260 911.62 L 250 911.43 L 240 912.41 L 230 912 L 230.06 912 L 229.76 902 L 229.58 892 L 230.16 882 L 230.03 872 L 230.26 862 L 230.6 852 L 229.57 842 L 229.84 832 L 229.43 822 L 229.32 812 L 230.6 802 L 229.92 792 L 230.67 782 L 229.9 772 L 229.36 762 L 229.97 752 L 229.64 742 L 230.03 732 L 230.53 722 L 230.74 712 L 230.52 702 L 229.5 692 L 229.37 682 L 229.57 672 L 230.74 662 L 230.65 652 L 230.08 642 L 229.77 632 L 230.75 622 L 229.64 612 L 229.96 602 L 229.75 592 L 230.25 582 L 229.9 572 L 230.52 562 L 229.73 552 L 229.59 542 L 229.47 532 L 229.36 522 L 230.35 512 L 230.75 502 L 229.8 492 L 230.44 482 L 230.55 472 L 230.06 462 L 230.22 452 L 229.48 442 L 230 432 L 229.9 422 L 230.65 412 L 230.16 402 L 230.51 392 L 229.28 382 L 229.29 372 L 230.57 362 L 230.69 352 L 230 342 L 230 342 Z Z" fill="none" stroke="#000000" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 818px; height: 1px; padding-top: 627px; margin-left: 231px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Verdana; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <font style="font-size: 500px">
+                                    📅
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="640" y="631" fill="#000000" font-family="Verdana" font-size="12px" text-anchor="middle">
+                    📅
+                </text>
+            </switch>
+        </g>
+        <path d="M 280 212 L 280 211.33 L 290 211.33 L 300 212.67 L 310 212.5 L 320 212.06 L 330 212.08 L 340 211.53 L 350 211.41 L 360 211.42 L 370 212 L 370.07 212 L 369.83 222 L 370.53 232 L 370 242 L 370.29 252 L 370 262 L 370 261.89 L 360 261.59 L 350 262.24 L 340 261.29 L 330 262.26 L 320 261.33 L 310 262.48 L 300 262.23 L 290 262.01 L 280 262 L 279.42 262 L 280.47 252 L 280.26 242 L 279.52 232 L 279.39 222 L 280 212 L 280 212 Z Z" fill="#ffffff" stroke="#000000" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 88px; height: 1px; padding-top: 237px; margin-left: 281px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 28px; font-family: Verdana; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                今日
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="325" y="245" fill="#000000" font-family="Verdana" font-size="28px" text-anchor="middle">
+                    今日
+                </text>
+            </switch>
+        </g>
+        <rect x="410" y="212" width="240" height="45" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 238px; height: 1px; padding-top: 235px; margin-left: 411px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <font style="font-size: 29px">
+                                    2020年7月
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="530" y="238" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    2020年7月
+                </text>
+            </switch>
+        </g>
+        <rect x="10" y="217" width="60" height="45" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 240px; margin-left: 11px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <span style="font-size: 29px">
+                                    ≡
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="40" y="243" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    ≡
+                </text>
+            </switch>
+        </g>
+        <rect x="60" y="212" width="240" height="45" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 238px; height: 1px; padding-top: 235px; margin-left: 61px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <font style="font-size: 29px">
+                                    📆カレンダー
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="180" y="238" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    📆カレンダー
+                </text>
+            </switch>
+        </g>
+        <rect x="663" y="222" width="30" height="45" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 28px; height: 1px; padding-top: 245px; margin-left: 664px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <font style="font-size: 29px">
+                                    🔍
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="678" y="248" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    🔍
+                </text>
+            </switch>
+        </g>
+        <rect x="720" y="222" width="30" height="45" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 28px; height: 1px; padding-top: 245px; margin-left: 721px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <font style="font-size: 29px">
+                                    ❔
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="735" y="248" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    ❔
+                </text>
+            </switch>
+        </g>
+        <rect x="780" y="222" width="30" height="45" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 28px; height: 1px; padding-top: 245px; margin-left: 781px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <span style="font-size: 29px">
+                                    ⚙
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="795" y="248" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    ⚙
+                </text>
+            </switch>
+        </g>
+        <path d="M 840 219.5 L 840 220.04 L 850 218.97 L 860 220.02 L 870 219.79 L 880 218.91 L 890 219.76 L 900 220.01 L 910 220.18 L 920 219.4 L 930 219.5 L 930.71 219.5 L 930.75 229.5 L 929.74 239.5 L 929.28 249.5 L 929.34 259.5 L 930 269.5 L 930 269.4 L 920 269.23 L 910 269.64 L 900 269.29 L 890 269.52 L 880 270.11 L 870 269.13 L 860 269.65 L 850 268.87 L 840 269.5 L 840.66 269.5 L 840.01 259.5 L 839.47 249.5 L 840.7 239.5 L 840.59 229.5 L 840 219.5 L 840 219.5 Z Z" fill="#ffffff" stroke="#000000" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 88px; height: 1px; padding-top: 245px; margin-left: 841px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 28px; font-family: Verdana; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                月
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="885" y="253" fill="#000000" font-family="Verdana" font-size="28px" text-anchor="middle">
+                    月
+                </text>
+            </switch>
+        </g>
+        <path d="M 950 217 L 950 216.98 L 960 216.65 L 970 216.38 L 980 217.17 L 990 216.3 L 1000 216.55 L 1010 217 L 1020 217.32 L 1030 216.55 L 1040 217 L 1039.71 217 L 1039.38 227 L 1039.85 237 L 1039.43 247 L 1040.14 257 L 1040 267 L 1040 266.39 L 1030 267.46 L 1020 266.69 L 1010 266.49 L 1000 267.69 L 990 266.87 L 980 266.54 L 970 266.85 L 960 266.48 L 950 267 L 950.01 267 L 950.18 257 L 949.66 247 L 949.51 237 L 949.3 227 L 950 217 L 950 217 Z Z" fill="#ffffff" stroke="#000000" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 88px; height: 1px; padding-top: 242px; margin-left: 951px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 28px; font-family: Verdana; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                😶
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="995" y="250" fill="#000000" font-family="Verdana" font-size="28px" text-anchor="middle">
+                    😶
+                </text>
+            </switch>
+        </g>
+        <path d="M 40 302 L 40 301.94 L 50 301.34 L 60 302.24 L 70 301.63 L 80 301.59 L 90 302.73 L 100 301.28 L 110 301.43 L 120 301.79 L 130 302.35 L 140 302.6 L 150 301.54 L 160 301.85 L 170 302 L 170.5 302 L 170.61 312 L 170.25 322 L 170.06 332 L 170.55 342 L 170 352 L 170 351.77 L 160 351.39 L 150 351.36 L 140 351.51 L 130 351.38 L 120 352.42 L 110 351.55 L 100 351.51 L 90 351.67 L 80 352.69 L 70 352.41 L 60 352.31 L 50 351.33 L 40 352 L 40.35 352 L 40.26 342 L 39.51 332 L 40.17 322 L 40.72 312 L 40 302 L 40 302 Z Z" fill="#ffffff" stroke="#000000" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 128px; height: 1px; padding-top: 327px; margin-left: 41px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 28px; font-family: Verdana; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                ➕作成
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="105" y="335" fill="#000000" font-family="Verdana" font-size="28px" text-anchor="middle">
+                    ➕作成
+                </text>
+            </switch>
+        </g>
+        <path d="M 12.5 537 L 12.5 536.97 L 22.25 537.05 L 32 537.34 L 41.75 537.7 L 51.5 537.03 L 61.25 536.62 L 71 537.66 L 80.75 536.59 L 90.5 536.8 L 100.25 537.18 L 110 537.74 L 119.75 537.67 L 129.5 536.63 L 139.25 537.32 L 149 537.54 L 158.75 537.54 L 168.5 536.58 L 178.25 537.03 L 188 536.6 L 197.75 536.6 L 207.5 537 L 207.93 537 L 208.18 546.64 L 207.68 556.29 L 207.08 565.93 L 207.82 575.57 L 207.4 585.21 L 206.84 594.86 L 206.91 604.5 L 207.21 614.14 L 207.71 623.79 L 207.17 633.43 L 207.22 643.07 L 208.15 652.71 L 208.09 662.36 L 207.5 672 L 207.5 672.19 L 197.75 672.24 L 188 671.52 L 178.25 672.02 L 168.5 671.81 L 158.75 672.73 L 149 671.87 L 139.25 672.21 L 129.5 671.6 L 119.75 671.82 L 110 671.51 L 100.25 671.86 L 90.5 672.41 L 80.75 671.39 L 71 672.1 L 61.25 672.54 L 51.5 671.83 L 41.75 671.95 L 32 672.44 L 22.25 671.74 L 12.5 672 L 12.92 672 L 12.69 662.36 L 12.8 652.71 L 11.84 643.07 L 12.79 633.43 L 12.47 623.79 L 11.99 614.14 L 12.13 604.5 L 12.61 594.86 L 12.9 585.21 L 11.86 575.57 L 13.14 565.93 L 11.86 556.29 L 12.28 546.64 L 12.5 537 L 12.5 537 Z Z" fill="none" stroke="#000000" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 193px; height: 1px; padding-top: 605px; margin-left: 15px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Verdana; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <span style="font-size: 20px">
+                                    ☑自分の予定
+                                </span>
+                                <span style="font-size: 20px">
+                                    <br/>
+                                </span>
+                                <span style="font-size: 20px">
+                                    ☑日本の祝日
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="15" y="608" fill="#000000" font-family="Verdana" font-size="12px">
+                    ☑自分の予定☑日本の祝日
+                </text>
+            </switch>
+        </g>
+        <path d="M 830 2 L 985 2 L 985 172 L 927.5 172 L 907.5 202 L 907.5 172 L 830 172 Z" fill="#fff2cc" stroke="#d6b656" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 153px; height: 1px; padding-top: 87px; margin-left: 832px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <ul style="font-size: 17px">
+                                    <li>
+                                        日
+                                    </li>
+                                    <li>
+                                        週
+                                    </li>
+                                    <li>
+                                        月
+                                    </li>
+                                    <li>
+                                        年
+                                    </li>
+                                    <li>
+                                        スケジュール
+                                    </li>
+                                    <li>
+                                        4日
+                                    </li>
+                                </ul>
+                                <div>
+                                    <span style="font-size: 17px">
+                                        から選択できる
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="832" y="91" fill="#000000" font-family="Helvetica" font-size="12px">
+                    日週月年スケジュール4日...
+                </text>
+            </switch>
+        </g>
+        <path d="M 595 322 L 750 322 L 750 362 L 690.4 362 L 672.5 382 L 669.4 362 L 595 362 Z" fill="#fff2cc" stroke="#d6b656" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 153px; height: 1px; padding-top: 342px; margin-left: 597px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <ul style="font-size: 17px">
+                                    <li>
+                                        月モード
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="597" y="346" fill="#000000" font-family="Helvetica" font-size="12px">
+                    月モード
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://desk.draw.io/support/solutions/articles/16000042487" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
