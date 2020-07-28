@@ -1,3 +1,20 @@
+# react-go-calandar(frontend)
+
+react でフロントエンドを作成する。
+
+## TODO
+
+- TODO を GitHub Project に移行する
+- 上部コンポーネント作成
+- 左部コンポーネント作成
+- カレンダー部コンポーネント作成
+- 月表示コンポーネント作成
+- etc
+
+以下、create-react-app の自動出力。
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

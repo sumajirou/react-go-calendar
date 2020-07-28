@@ -1,0 +1,61 @@
+<mxfile host="5eca4802-0ec0-46f5-bdfe-b76d840a5419" modified="2020-07-28T13:52:06.770Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.47.0 Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36" etag="ozIDqmgT7mRg8iaG1VuZ" version="13.1.3">
+    <diagram name="最終形(月)" id="03018318-947c-dd8e-b7a3-06fadd420f32">
+        <mxGraphModel dx="1390" dy="2603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="20" width="1060" height="810" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;font style=&quot;font-size: 90px&quot;&gt;📅&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="230" width="200" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="115" width="1060" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;font style=&quot;font-size: 500px&quot;&gt;📅&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="180" width="820" height="570" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="今日" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="50" width="90" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;font style=&quot;font-size: 29px&quot;&gt;2020年7月&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="430" y="50" width="240" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;span style=&quot;font-size: 29px&quot;&gt;≡&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="55" width="60" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;font style=&quot;font-size: 29px&quot;&gt;📆カレンダー&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="50" width="240" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;font style=&quot;font-size: 29px&quot;&gt;🔍&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="683" y="60" width="30" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;font style=&quot;font-size: 29px&quot;&gt;❔&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="740" y="60" width="30" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;span style=&quot;font-size: 29px&quot;&gt;⚙&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="800" y="60" width="30" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="月" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;" vertex="1" parent="1">
+                    <mxGeometry x="860" y="57.5" width="90" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="😶" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;" vertex="1" parent="1">
+                    <mxGeometry x="970" y="55" width="90" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="➕作成" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="140" width="130" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;span style=&quot;font-size: 20px&quot;&gt;☑自分の予定&lt;/span&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;☑日本の祝日&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=left;comic=1;" vertex="1" parent="1">
+                    <mxGeometry x="32.5" y="375" width="195" height="135" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="&lt;ul style=&quot;font-size: 17px&quot;&gt;&lt;li&gt;日&lt;/li&gt;&lt;li&gt;週&lt;/li&gt;&lt;li&gt;月&lt;/li&gt;&lt;li&gt;年&lt;/li&gt;&lt;li&gt;スケジュール&lt;/li&gt;&lt;li&gt;4日&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;から選択できる&lt;/span&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="850" y="-160" width="155" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="&lt;ul style=&quot;font-size: 17px&quot;&gt;&lt;li&gt;月モード&lt;/li&gt;&lt;/ul&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;align=left;size=20;position=0.48;base=21;" vertex="1" parent="1">
+                    <mxGeometry x="615" y="160" width="155" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
