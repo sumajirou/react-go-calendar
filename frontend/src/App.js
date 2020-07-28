@@ -1,36 +1,31 @@
 import React, { useState, useEffect } from "react";
+import MenuBar from "./component/MenuBar.js";
 import logo from "./logo.svg";
 import "./App.css";
+
+import { Button } from "@material-ui/core";
 
 function App() {
   const [data, changeData] = useState([]);
   useEffect(() => {
-    console.log("fetch");
-    const url = `http://localhost:1323/ping`;
-    fetch(url)
-      .then((res) => res.text())
-      .then((res) => {
-        changeData(res);
-      });
+    async function fetchData() {
+      const url = `http://localhost:1323/ping`;
+      const res = await fetch(url);
+      const text = await res.text();
+      changeData(text);
+    }
+    fetchData();
   }, []);
 
   return (
     <div className="App">
+      <MenuBar />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
         <p>{data}</p>
       </header>
+
+      <Button color="primary">Hello World</Button>
     </div>
   );
 }
