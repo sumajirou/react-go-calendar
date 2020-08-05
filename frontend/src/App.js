@@ -1,31 +1,55 @@
 import React, { useState, useEffect } from "react";
-import MenuBar from "./component/MenuBar.js";
-import logo from "./logo.svg";
 import "./App.css";
 
-import { Button } from "@material-ui/core";
+import {
+  Button,
+  Box,
+  AppBar,
+  Toolbar,
+  Typography,
+  IconButton,
+  Avatar,
+} from "@material-ui/core";
+
+// Material-UIアイコン取得
+import MenuIcon from "@material-ui/icons/Menu";
 
 function App() {
-  const [data, changeData] = useState([]);
-  useEffect(() => {
-    async function fetchData() {
-      const url = `http://localhost:1323/ping`;
-      const res = await fetch(url);
-      const text = await res.text();
-      changeData(text);
-    }
-    fetchData();
-  }, []);
-
   return (
     <div className="App">
-      <MenuBar />
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>{data}</p>
-      </header>
+      <AppBar position="static">
+        <Toolbar>
+          {/* メニューアイコン */}
+          <IconButton>
+            <MenuIcon />
+          </IconButton>
 
-      <Button color="primary">Hello World</Button>
+          {/* アプリタイトル */}
+          <Typography variant="subtitle1">📅カレンダー</Typography>
+
+          {/* アカウントメニュー */}
+          <IconButton>
+            <Avatar></Avatar>
+          </IconButton>
+        </Toolbar>
+      </AppBar>
+
+      <Button variant="contained" color="primary">
+        Button
+      </Button>
+
+      {/* 月カレンダー */}
+      <Box border={1} p={1} height="80vh">
+        {[...Array(5)].map(() => (
+          <Box display="flex" height="20%">
+            {[...Array(7)].map(() => (
+              <Box border={1} flexGrow={1}>
+                day
+              </Box>
+            ))}
+          </Box>
+        ))}
+      </Box>
     </div>
   );
 }
